@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrazyKoodaa
-- 👀 I’m interested in C, C# and Unity
-- 🌱 I’m currently learning C, C# and Unity :)
+- 👀 I’m interested in C and C#
+- 🌱 I’m currently learning C and C# :)
 - 💞️ I’m looking to collaborate with anyone, who has the same goal to learn the above stuff
 - 📫 How to reach me Twitter @crazykoodaa
 
